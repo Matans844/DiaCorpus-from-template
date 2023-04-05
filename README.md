@@ -12,6 +12,8 @@ See: https://vsoch.github.io/docsy-jekyll/docs/versioning
 
 Supposedly , we also need to decide if we want to have the "Release" option for every page, but I think removing it from some pages adds redundant overhead, especially since there's already a builtin tool in the template that says if a given page has no prior version in other releases.
 
-
 ## Task 2
 Get clearance for website design and add content.
+
+## Stamp
+Last updated on 05-04-23.
