@@ -18,7 +18,7 @@ Get clearance for website design and add content.
 ## Stamp
 Last updated on 05-04-23.
 ## Task 3
-We need to add content.
+We need to add images, branding, favicons.
 
 ## Task 4
-We need to add images, branding, favicons.
+Get a custom domain, and move the website there. Remove information related to the original template used here, (docsy)[https://github.com/vsoch/docsy-jekyll]
