@@ -2,6 +2,9 @@
 A website for the Arabic Corpus Project.
 This is a joint project between the Data Science Institute at Reichman University and the Israel Innovation Institute.
 
+## Stamp
+Last updated on 05-04-23.
+
 # Tasks
 ## Task 1
 Decide on versioning: Pages in the "_docs" folder can be versioned. Pages in the "pages" folder cannot.
@@ -15,8 +18,6 @@ Supposedly , we also need to decide if we want to have the "Release" option for 
 ## Task 2
 Get clearance for website design and add content.
 
-## Stamp
-Last updated on 05-04-23.
 ## Task 3
 We need to add images, branding, favicons.
 
