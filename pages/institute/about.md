@@ -2,10 +2,9 @@
 layout: page
 title: About the Data Science Institute
 description: Get to know the Data Science Institute
-permalink: /about/
 ---
 
-# About us
+# The Data Science Institute
 
 Data science is at the forefront of innovation and entrepreneurship, enabling and refueling massive economic growth and cultural shifts. It promises to creep into every single area of our lives with each profession having to re-evaluate how it deals with data and implications. The mission of the Data Science Institute is to cultivate applied research, technological breakthroughs and professional skills.
 
