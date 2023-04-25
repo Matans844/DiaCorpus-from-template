@@ -27,9 +27,9 @@ title: DiaCorpus Project
 email: dsi@runi.ac.il
 author: Data Science Institute
 description: > # this means to ignore newlines until "baseurl:"
-  The DiaCorpus project is a collaboration between the data science institute (DSI) and Israeli Innovation authority.
-  The project is part of the National Language Processing plan of Israel.
+  The DiaCorpus project is a collaboration between the Data Science Institute (DSI) and Israeli Innovation authority.
   The purpose of the project is to create a first of a kind Arabic textual repository, in a local dialect (Israeli / Palestinian).
+  This project is part of the National Language Processing plan of Israel.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,8 +38,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matans844.github.io/DiaCorpus/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/matans844/DiaCorpus"
-github_user: "matans844"
+repo: "https://github.com/idc-dsi/DiaCorpus"
+github_user: "idc-dsi"
 github_repo: "DiaCorpus"
 github_branch: "main"
 
